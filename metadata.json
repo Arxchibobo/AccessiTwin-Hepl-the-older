@@ -1,0 +1,8 @@
+{
+  "name": "AccessiTwin",
+  "description": "A multimodal accessibility tool that converts physical device interfaces into simplified, high-contrast digital twins for users with visual or cognitive impairments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
